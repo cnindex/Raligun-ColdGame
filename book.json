@@ -1,8 +1,8 @@
 {
-    "title": "Django Book",
-    "author": "Marvolo",      
+    "title": "Raligun ColdGame",
+    "author": "cnindex",      
 	"language": "zh-Hans",          
-    "description": "Django 框架的简易入门教程",    
+    "description": "某科学的超电磁炮 ColdGame 中文翻译",    
     "plugins": [
         "chapter-fold",         
         "code",                 
@@ -25,12 +25,12 @@
 
 	"pluginsConfig": {
         "tbfed-pagefooter": {
-            "copyright":"Copyright &copy Marvolo 2021",
+            "copyright":"Copyright &copy cnindex 2021",
             "modify_label": "该文章修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "github": {
-            "url": "https://github.com/zhtjtcz/Djangobook"
+            "url": "https://github.com/cnindex/Raligun-ColdGame"
         },
         "prism": {
             "css": [
@@ -39,7 +39,7 @@
         },
         "links": {
             "sidebar" : {
-                "Home" : "http://marvolo.top"
+                "Home" : ""
             }
         },
 		"insert-logo": {
