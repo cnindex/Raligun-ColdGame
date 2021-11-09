@@ -1,0 +1,53 @@
+{
+    "title": "Django Book",
+    "author": "Marvolo",      
+	"language": "zh-Hans",          
+    "description": "Django 框架的简易入门教程",    
+    "plugins": [
+        "chapter-fold",         
+        "code",                 
+        "splitter",             
+        "-lunr",
+        "-search", 
+        "search-pro",           
+        "tbfed-pagefooter",     
+        "popup",                
+        "github",
+        "theme-comscore",       
+        "multipart",            
+        "-livereload",
+        "prism",                
+        "-highlight",
+		"hide-element",
+		"back-to-top-button",
+		"insert-logo"
+    ],
+
+	"pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy Marvolo 2021",
+            "modify_label": "该文章修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "github": {
+            "url": "https://github.com/zhtjtcz/Djangobook"
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism.css"
+            ]
+        },
+        "links": {
+            "sidebar" : {
+                "Home" : "http://marvolo.top"
+            }
+        },
+		"insert-logo": {
+			"url": "https://s3.bmp.ovh/imgs/2021/11/766ede33f4b96ab7.jpg",
+			"style": "background: none; max-height: 30px; min-height: 30px"
+		},
+		"hide-element": {
+            "elements": [".gitbook-link"]
+        }
+	}
+}
