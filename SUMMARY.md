@@ -4,4 +4,6 @@
 
 ## 章节
 
-* [00](post/ch0/0.md)
+* [0（the_fool）](post/ch0/0.md)
+
+* [1（the_magician）](post/ch0/1.md)
