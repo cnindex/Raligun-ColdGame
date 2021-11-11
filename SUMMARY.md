@@ -9,3 +9,5 @@
 * [0（the_fool）](post/ch0/0.md)
 
 * [1（the_magician）](post/ch0/1.md)
+
+* [2（the_priestess）](post/ch0/2.md)
