@@ -15,3 +15,5 @@
 * [3（the_empress）](post/ch0/3.md)
 
 * [4（the_emperor）](post/ch0/4.md)
+
+* [5（the_hierophant）](post/ch0/5.md)
