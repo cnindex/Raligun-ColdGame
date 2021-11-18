@@ -17,3 +17,9 @@
 * [4（the_emperor）](post/ch0/4.md)
 
 * [5（the_hierophant）](post/ch0/5.md)
+
+* [6（the_lovers）](post/ch0/6.md)
+
+* [7（the_chariot）](post/ch0/7.md)
+
+* [8（strength）](post/ch0/8.md)
