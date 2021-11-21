@@ -23,3 +23,5 @@
 * [7（the_chariot）](post/ch0/7.md)
 
 * [8（strength）](post/ch0/8.md)
+
+* [9（the_hermit）](post/ch0/9.md)
