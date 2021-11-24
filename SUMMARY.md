@@ -27,3 +27,5 @@
 * [9（the_hermit）](post/ch0/9.md)
 
 * [10（wheel_of_fortune）](post/ch0/10.md)
+
+* [11（justice）](post/ch0/11.md)
