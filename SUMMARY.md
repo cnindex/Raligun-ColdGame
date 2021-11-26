@@ -29,3 +29,5 @@
 * [10（wheel_of_fortune）](post/ch0/10.md)
 
 * [11（justice）](post/ch0/11.md)
+
+* [12（the_hanged_man）](post/ch0/12.md)
