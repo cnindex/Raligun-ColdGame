@@ -39,3 +39,5 @@
 * [15（the_devil）](post/ch0/15.md)
 
 * [16（the_tower）](post/ch0/16.md)
+
+* [17（the_star）](post/ch0/17.md)
